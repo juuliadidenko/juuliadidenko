@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juuliadidenko&label=Profile%20views&color=0e75b6&style=flat" alt="juuliadidenko" /> </p>
 
-- 🔭 I’m currently working on [Blog site v.2 on Flask](https://github.com/juuliadidenko/python-project-lvl2)
+- 🔭 I’m currently studying Miguel Grinberg's book 'Flask Web Development'
 
 - 🌱 I’m currently learning **Python, Flask, asyncio**
 
