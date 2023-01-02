@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Julia</h1>
-<h3 align="center">aspiring Python developer from Saint Petersburg, Russia</h3>
+<h3 align="center">an aspiring Python developer from Saint Petersburg, Russia</h3>
 
 
-- 🔭 I’m currently studying Miguel Grinberg's book 'Flask Web Development'
+- 🔭 I’m currently studying 'Grokking Algorithms' by Aditya Bhargava
 
-- 🌱 I’m currently learning **Python, Flask, asyncio**
+- 🌱 I’m currently learning **Python, Flask, REST**
 
 - 📫 How to reach me **iuliia.didenko@gmail.com**
 
