@@ -2,7 +2,6 @@
 <h3 align="center">an aspiring Python developer from Saint Petersburg, Russia</h3>
 
 
-- 🔭 I’m currently studying 'Grokking Algorithms' by Aditya Bhargava
 
 - 🌱 I’m currently learning **Python, Flask, REST**
 
