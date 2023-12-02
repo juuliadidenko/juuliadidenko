@@ -3,7 +3,7 @@
 
 Владею базовыми навыками программирования на Python, осваиваю Java и Kotlin. Хочу развиваться в автоматизированном тестировании.
 
-- 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iuliia.didenko@gmail.com) 
+<!-- - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iuliia.didenko@gmail.com)  -->
 
 <br>
 <h1 align="center">Hi, I'm Julia! </h1>
@@ -11,7 +11,7 @@ Tester with background in sales and customer service.
 
 I have basic programming experience with Python, currently gaining expertise in Java and Kotlin. Aspiring to specialize in automated testing.
 
-### Социальные сети / Social media:
+### 📫 Мои контакты / Contact me:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/julia-didenko/" target="_blank">
@@ -28,11 +28,17 @@ I have basic programming experience with Python, currently gaining expertise in 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="youtrack" alt="youtrack" width="40" height="40"/>&nbsp
+   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/azure/azure-original.svg" title="youtrack" alt="azure" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
-  <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp
+  <!-- <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp -->
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
 </div>
+
+<!-- [Баг-репорты, созданные в Jira]()   -->
+<!-- [Тест-кейсы, созданные в Azure DevOps]()   -->
+[Тестовые наборы, созданные в QASE](https://github.com/juuliadidenko/mobile_app_testing/blob/main/TO-DO%20test%20cases.pdf)  
+[Баг-репорты, созданные в YouTrack](https://github.com/juuliadidenko/mobile_app_testing/tree/main/YouTrack%20bug%20reports)
 
 ---
 
@@ -44,6 +50,9 @@ I have basic programming experience with Python, currently gaining expertise in 
 <!-- <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>&nbsp  -->
 
 </div>
+
+<!-- [Обнаружение багов фронтенда сайта с помощью DevTools]() -->
+[Моя Postman коллекция для ручного тестирования petstore.swagger.io]()
 
 ---
 
@@ -57,6 +66,9 @@ I have basic programming experience with Python, currently gaining expertise in 
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp -->
 </div>
 
+[Исследовательское тестирование мобильного приложения TO-DO MVP](https://github.com/juuliadidenko/mobile_app_testing)  
+ <!-- [Перехват трафика приложения в Charles Proxy]()  -->
+
 ---
 
 
@@ -67,15 +79,17 @@ I have basic programming experience with Python, currently gaining expertise in 
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
 </div>
 
+[Примеры выполненных SQL запросов в MySQL Workbench](https://github.com/juuliadidenko/sql_home_assignment)
+
 ---
 
 ### ✏️ Работа с кодом / Coding:
 
 <div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
+  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
   
 </div>
-
----
