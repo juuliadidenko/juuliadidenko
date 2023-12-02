@@ -39,7 +39,7 @@ I have basic programming experience with Python, currently gaining expertise in 
 </div>
 
 <!-- [Баг-репорты, созданные в Jira]()   -->
-<!-- [Тест-кейсы, созданные в Azure DevOps]()   -->
+[Тест-кейсы и баг-репорты, созданные в Azure DevOps](https://github.com/juuliadidenko/aliexpress_testing)
 [Тестовые наборы, созданные в QASE](https://github.com/juuliadidenko/mobile_app_testing/blob/main/TO-DO%20test%20cases.pdf)  
 [Баг-репорты, созданные в YouTrack](https://github.com/juuliadidenko/mobile_app_testing/blob/main/to_do_mvp_youtrack_bugreports.pdf)
 
