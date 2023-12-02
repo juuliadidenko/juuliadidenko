@@ -1,19 +1,22 @@
 <h1 align="center">Привет, меня зовут Юлия! </h1>
-Тестировщик с бэкграундом в продажах и customer service.  
+Тестировщик с бэкграундом в продажах и обслуживании клиентов.  
 
 Владею базовыми навыками программирования на Python, осваиваю Java и Kotlin. Хочу развиваться в автоматизированном тестировании.
 
-<!-- - 📫 Как связаться со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:iuliia.didenko@gmail.com)  -->
-
-<br>
 <h1 align="center">Hi, I'm Julia! </h1>
 Tester with background in sales and customer service.  
 
 I have basic programming experience with Python, currently gaining expertise in Java and Kotlin. Aspiring to specialize in automated testing.
 
+---
+
 ### 📫 Мои контакты / Contact me:
 
+
   <div id="badges">
+    <a href="mailto:iuliia.didenko@gmail.com" target="_blank">
+      <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40" height="40" alt="gmail" />
+    </a>
     <a href="https://www.linkedin.com/in/julia-didenko/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
@@ -52,7 +55,7 @@ I have basic programming experience with Python, currently gaining expertise in 
 </div>
 
 <!-- [Обнаружение багов фронтенда сайта с помощью DevTools]() -->
-[Моя Postman коллекция для ручного тестирования petstore.swagger.io]()
+[Моя Postman коллекция для ручного тестирования petstore.swagger.io](https://www.postman.com/julia-didenko/workspace/my-workspace/collection/24006078-7fd6879b-272d-4286-be9f-98227f51748c?ctx=info)
 
 ---
 
@@ -79,7 +82,7 @@ I have basic programming experience with Python, currently gaining expertise in 
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
 </div>
 
-[Примеры выполненных SQL запросов в MySQL Workbench](https://github.com/juuliadidenko/sql_home_assignment)
+[Примеры SQL запросов, которые я сделала в MySQL Workbench](https://github.com/juuliadidenko/sql_home_assignment)
 
 ---
 
@@ -87,7 +90,7 @@ I have basic programming experience with Python, currently gaining expertise in 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
-  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
