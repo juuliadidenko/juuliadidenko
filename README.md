@@ -36,12 +36,14 @@ I have basic programming experience with Python, currently gaining expertise in 
   <!-- <img src="https://docs.testit.software/images/testit_logo_icon.png" title="test-it" alt="test-it" width="40" height="40"/>&nbsp -->
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+</div>  
+<br>
 
+Примеры созданных мной тестовых артефактов:
 <!-- [Баг-репорты, созданные в Jira]()   -->
-[Тест-кейсы и баг-репорты, созданные в Azure DevOps](https://github.com/juuliadidenko/aliexpress_testing)  
-[Тестовые наборы, созданные в QASE](https://github.com/juuliadidenko/mobile_app_testing/blob/main/TO-DO%20test%20cases.pdf)  
-[Баг-репорты, созданные в YouTrack](https://github.com/juuliadidenko/mobile_app_testing/blob/main/to_do_mvp_youtrack_bugreports.pdf)
+[Тест-кейсы и баг-репорты (Azure DevOps)](https://github.com/juuliadidenko/aliexpress_testing)  
+[Тестовый набор на функциональность (QASE)](https://github.com/juuliadidenko/mobile_app_testing/blob/main/TO-DO%20test%20cases.pdf)  
+[Баг-репорты (YouTrack)](https://github.com/juuliadidenko/mobile_app_testing/blob/main/to_do_mvp_youtrack_bugreports.pdf)
 
 ---
 
@@ -69,8 +71,8 @@ I have basic programming experience with Python, currently gaining expertise in 
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>&nbsp -->
 </div>
 
-[Исследовательское тестирование мобильного приложения TO-DO MVP](https://github.com/juuliadidenko/mobile_app_testing)  
- <!-- [Перехват трафика приложения в Charles Proxy]()  -->
+[Исследовательское тестирование мобильного приложения TO-DO-MVP](https://github.com/juuliadidenko/mobile_app_testing)  
+[Перехват трафика в Charles Proxy](https://github.com/juuliadidenko/charles_proxy_assignment)
 
 ---
 
