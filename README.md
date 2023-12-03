@@ -14,7 +14,7 @@ I have basic programming experience with Python, currently gaining expertise in 
 
 
   <div id="badges">
-    <a href="mailto:iuliia.didenko@gmail.com" target="_blank">
+    <a href="mailto:iuliia.didenko@gmail.com">
       <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="40" height="40" alt="gmail" />
     </a>
     <a href="https://www.linkedin.com/in/julia-didenko/" target="_blank">
