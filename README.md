@@ -10,6 +10,10 @@ I have basic programming experience with Python, currently gaining expertise in 
 
 ---
 
+[Моë резюме в PDF](https://github.com/juuliadidenko/julia_didenko_qa_engineer-resume) 
+
+---
+
 ### 📫 Мои контакты / Contact me:
 
 
