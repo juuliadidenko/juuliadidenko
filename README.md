@@ -1,10 +1,10 @@
 <h1 align="center">Привет, меня зовут Юлия! </h1>
-Тестировщик с бэкграундом в продажах и обслуживании клиентов.  
+Специалист по тестированию с бэкграундом в продажах и обслуживании клиентов.  
 
 Владею базовыми навыками программирования на Python. Хочу развиваться в автоматизированном тестировании.
 
 <h1 align="center">Hi, I'm Julia! </h1>
-Tester with background in sales and customer service.  
+QA engineer with background in sales and customer service.  
 
 I have basic programming experience with Python. Aspiring to specialize in automated testing.
 
