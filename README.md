@@ -1,16 +1,12 @@
 <h1 align="center">Привет, меня зовут Юлия! </h1>
 Тестировщик с бэкграундом в продажах и обслуживании клиентов.  
 
-Владею базовыми навыками программирования на Python, осваиваю Java и Kotlin. Хочу развиваться в автоматизированном тестировании.
+Владею базовыми навыками программирования на Python. Хочу развиваться в автоматизированном тестировании.
 
 <h1 align="center">Hi, I'm Julia! </h1>
 Tester with background in sales and customer service.  
 
-I have basic programming experience with Python, currently gaining expertise in Java and Kotlin. Aspiring to specialize in automated testing.
-
----
-
-[Моë резюме в PDF](https://github.com/juuliadidenko/julia_didenko_qa_engineer-resume) 
+I have basic programming experience with Python. Aspiring to specialize in automated testing.
 
 ---
 
@@ -95,7 +91,6 @@ I have basic programming experience with Python, currently gaining expertise in 
 ### ✏️ Работа с кодом и инструменты/ Coding and other tools:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" alt="kotlin" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/452054/linux.svg" title="linux" alt=";inux" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
