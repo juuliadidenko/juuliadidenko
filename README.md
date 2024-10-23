@@ -1,12 +1,14 @@
 <h1 align="center">Привет, меня зовут Юлия! </h1>
-Специалист по тестированию с бэкграундом в продажах и обслуживании клиентов.  
+Специалист по тестированию с бэкграундом в продажах и customer service.  
 
-Владею базовыми навыками программирования на Python. Хочу развиваться в автоматизированном тестировании.
+Имею опыт ручного тестирования фронтенда, написания тестовой документации, анализа и сбора требований.
+Владею базовыми навыками программирования на Python. Хочу развиваться как T-shaped QA-специалист.
 
 <h1 align="center">Hi, I'm Julia! </h1>
 QA engineer with background in sales and customer service.  
 
-I have basic programming experience with Python. Aspiring to specialize in automated testing.
+I have experience in manual frontend testing, writing test documentation, and analyzing and gathering requirements.
+I have basic programming experience with Python. Aspiring to develop as a T-shaped QA engineer.
 
 ---
 
@@ -41,6 +43,8 @@ I have basic programming experience with Python. Aspiring to specialize in autom
 
 Примеры созданных мной тестовых артефактов:
 <!-- [Баг-репорты, созданные в Jira]()   -->
+[Практика применения техник тест-дизайна (граничные значения, таблица принятия решений, чек-лист проверок формы регистрации)](https://github.com/juuliadidenko/test-design-practice)  
+[Баг-репорты, заведённые на фронт и бэк (на английском языке)](https://github.com/juuliadidenko/bug-report-practice)  
 [Тест-кейсы и баг-репорты (Azure DevOps)](https://github.com/juuliadidenko/aliexpress_testing)  
 [Тестовый набор на функциональность (QASE)](https://github.com/juuliadidenko/mobile_app_testing/blob/main/TO-DO%20test%20cases.pdf)  
 [Баг-репорты (YouTrack)](https://github.com/juuliadidenko/mobile_app_testing/blob/main/to_do_mvp_youtrack_bugreports.pdf)
@@ -57,6 +61,7 @@ I have basic programming experience with Python. Aspiring to specialize in autom
 </div>
 
 <!-- [Обнаружение багов фронтенда сайта с помощью DevTools]() -->
+[Практика создания Postman коллекций и написания базовых скриптов](https://github.com/juuliadidenko/postman-collections-practice)  
 [Моя Postman коллекция для ручного тестирования petstore.swagger.io](https://www.postman.com/julia-didenko/workspace/my-workspace/collection/24006078-7fd6879b-272d-4286-be9f-98227f51748c?ctx=info)
 
 ---
@@ -84,6 +89,7 @@ I have basic programming experience with Python. Aspiring to specialize in autom
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp -->
 </div>
 
+[Практика создания SQL-запросов](https://github.com/juuliadidenko/sql-query-practice)  
 [Примеры SQL запросов, которые я сделала в MySQL Workbench](https://github.com/juuliadidenko/sql_home_assignment)
 
 ---
